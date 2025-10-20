@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BAYBAYON_E-Portfolio</title>
+  <style>
+    body {
+      font-family: Lucida Handwriting;
+      margin: 0;
+      color: #333; 
+    background-image: url('LPSCIBG.jpg');
+    background-size: cover;      
+    background-position: center; 
+    background-repeat: no-repeat;
+
+    }
+    header {
+      background: linear-gradient(to bottom, #000099 0%, #003300 100%);
+      color: white;
+      text-align: center;
+      border: 1px solid black; border-radius: 5px;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #ddd;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #4caf50;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #FAFAD2;
+      text-align: left;
+    }
+    .project {
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 5px;
+      background: white;
+      box-shadow: 10px 10px LightSteelBlue;
+    }
+     footer {
+      background: linear-gradient(to bottom, #000099 0%, #003300 100%);
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+      margin-top: 40px;
+     
+       </style>
+</head>
+<body>
+
+  <header>
+   
+    <h1>&#128187;Electronic Portfolio&#128187;</h1>
+    <p>LAPISCIAN | Gamer | Student | Musician</p>
+    <nav>
+      <a href="#about"><u>All About Me</u></a>
+      <a href="ICT.html"><u>I.C.T</u></a>
+      <a href="AP.html"><u>A.P</u></a>
+      <a href="EVENTS.html"><u>Events</u></a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;">All About Me&#128102;</h2> 
+   <img src="profile.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; bottom:32px; left:22px">
+    <div class="project">
+    <p> Hi! My name is Gabriel C. Baybayon but you can just call me Gab. My birthday is on February 15,2011 and I am currently 14 uears old. My favorite things to do is listen to music, specifically RNB, Play sports like Basketball and Volleyball and I also like to play video games like Roblox. I hope this portfolio will be able to help you guys further understand me and my hobbies.</p>
+   </div>
+    <h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;">Circle of Friends&#128106;</h2>
+    <img src="homo.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; top:20px; left:20px">
+      <div class="project">
+      <p>My friendgroup ever since grade 8 and still close with till now. We call ourselves the homosapiens! We all met each other in grade 8 and got to be close with each other in a group activity for english which we had to make a song for teachers day. At first, we were pretty distant with each other and most of us didnt expect we would be friends with one another, but as time flew by we got closer and closer with each other. Theyre the friends that I trust and I know I can count on whenever i need them. I can say many more words to appreciate each and everyone of these people, my second family, and the group i truly love the most.</p>
+    </div>
+
+      <h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;">Me and my Family&#128145;</h2>
+     <img src="fam.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; bottom:20px; left:20px">
+        <div class="project">
+      <p>I give all my love and appreciation to my parents who have always been there to support me in every step of my journey. My family, although not prefect will always be a place i know i can rest in. Even though we may argue sometimes, i still love and care for the so much. I am truly grateful for my family, for not only looking after me but treating me to the best of their ability.</p>
+    </div>
+<br>
+<br>
+      <h2 style="text-align:center; background:linear-gradient(to bottom, #000066 0%, #336699 100%);"> PHOTOS AND VIDEOS DUMP </h2>
+      <p style="padding: 15px; border: 1px solid #ddd; margin: 15px 0; border-radius: 5px; background: linear-gradient(to bottom, #ccccff 0%, #ffffff 100%);height:900px; box-shadow: 10px 10px LightSteelBlue;"> 
+  
+
+<img src="homo2.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: center;position: relative; top:20px; left:100px">
+<img src="homo3.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: center;position: relative; top:20px; left:200px">
+<img src="homo4.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: center;position: relative; top:20px; left:300px">
+<img src="fam.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: center;position: relative; top:260px; left:100px">
+<img src="fam2.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: center;position: relative; top:50px; left:100px">
+<img src="fam3.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: center;position: relative; top:50px; left:200px">
+
+<video width="640" height="360" style="position:relative; top:100px; left:150px;" controls>
+  <source src="vid.mp4" type="video/mp4">
+  <source src="video.ogg" type="video/ogg">
+</video>
+
+ </section>
+
+<footer>  
+   <p>&copy; contact me! @Gabriel Baybayon on facebook!</p>
+ </footer>
+
+</body>
+</html>

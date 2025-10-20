@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EVENTS</title>
+  <style>
+    body {
+      font-family: Lucida Handwriting;
+      margin: 0;
+      color: #333; 
+    background-image: url('LPSCIBG.jpg');
+    background-size: cover;      
+    background-position: center; 
+    background-repeat: no-repeat;
+
+    }
+    header {
+      background: linear-gradient(to bottom, #000099 0%, #003300 100%);
+      color: white;
+      text-align: center;
+      border: 1px solid black; border-radius: 5px;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #ddd;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #4caf50;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #FAFAD2;
+      text-align: left;
+    }
+    .project {
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 5px;
+      background: white;
+      box-shadow: 10px 10px LightSteelBlue;
+      text-align: center;
+    }
+     footer {
+      background: linear-gradient(to bottom, #000099 0%, #003300 100%);
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+      margin-top: 40px;
+     
+       </style>
+</head>
+<body>
+
+  <header>
+   
+    <h1>&#128187;Electronic Portfolio&#128187;</h1>
+    <p>LAPISCIAN | Gamer | Student | Musician</p>
+    <nav>
+      <a href="BAYBAYON_PORTFOLIO.html"> <u>Back to home</u> </a>
+    </nav>
+  </header>
+
+<h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;"> Intramurals </h2>
+<div class="project">
+<p> I learned from the intramurals that we should always treat not just our team, but our enemies with respect all throughout the match. I can apply this in real life situations whenever I am competing against other people, I can show them good sportsmanship and what its like to be a good player.I participated in the intramurals being one of the athletes in the athletics and boys volleyball. If I were to teach this to a classmate I would report it in a way that would be fun and engaging since the intramurals was very exciting. Its important to have an event in order to showcase the abilities and skills of each individual student.
+</div>
+<img src="intrams.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: left;position: relative; top:20px; left:100px">
+<video width="580" height="300" style="position:relative; left:250px;" controls>
+  <source src="rolly.mp4" type="video/mp4">
+  <source src="video.ogg" type="video/ogg">
+</video>
+<img src="homo.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; top:20px; right: 100px">
+
+<h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;"> Cluster Meet </h2>
+<div class="project">
+<p> I learned from the cluster meet that through win or loss, rain or shine, there will always be a way to have fun and enjoy the feeling of competing with other strong players or competitors. I can apply this in real life situations by always showing that I am enjoying no matter what activity I am doing. I participated as one of the athletes in the cluster meet 2025-2026 as the athletics 100M boys sprinter, even though only getting 4th place it was still an enjoyable experience. If I was to teach one of my friends this, I would teach them that playing spotrs isnt always about winning, its mainly about hvaing fun and enjoying the time you still have playing the sport you love. Its important to have an event like this in order to prepare yourelves for challenges that seem impossible to face, but with hard work and dedication you can overcome these with ease.
+</div>
+<img src="cluster1.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: left;position: relative; top:20px; left:100px">
+<video width="580" height="300" style="position:relative; left:250px;" controls>
+  <source src="run.mp4" type="video/mp4">
+  <source src="video.ogg" type="video/ogg">
+</video>
+<img src="cluster2.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; top:20px; right:100px">
+<h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;"> Buwan ng Wika </h2>
+<div class="project">
+<p> I learned from buwan ng wika that we should truly value our culture as Filipinos and how to properly showcase this to other people. I can apply this in real life situations by doing normal Filipino traditions like blessing to those who are older than me and saying "po and opo". I did not participate very much in Buwan ng Wika but I enjoyed seeing everyone performing their tula for our performance task in FIlipino. If Im going to teach this to my friends, I would teach them the proper way to treat our Filipino culture with love and respect. Its important to have an event like this because it showcases the culture we Filipinos have and our love for the country.
+</div>
+<img src="bnw1.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; top:20px; right:100px">
+<video width="580" height="300" style="position:relative; left:250px;" controls>
+  <source src="fili.mp4" type="video/mp4">
+  <source src="video.ogg" type="video/ogg">
+</video>
+<img src="bnw2.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: left;position: relative; top:20px; left:100px">
+<h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;"> Teacher's Day </h2>
+<div class="project">
+<p> I learned from teachers day that we should always trust and respect our teachers who are the ones who have been there to guide us and teach us in every lesson. I can apply this is real life by giving my respect to every teacher and thanking them for always being ready to teach us. I participated in teachers day by helping to prepare for the teachers day party which happened in the LPSCI court. If Im going to teach my friends, I would teach them the importance of our beloved teachers and how we should always show our gratitude and respect towards them. Its important to have an event like this becasue we get to repay our teachers for always being there to guide and teach us.
+</div>
+<img src="tchr.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; top:20px; right:100px">
+<video width="580" height="300" style="position:relative; left:250px;" controls>
+  <source src="teacher.mp4" type="video/mp4">
+  <source src="video.ogg" type="video/ogg">
+</video>
+<img src="tchr2.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: left;position: relative; top:20px; left:100px">
+<h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;"> Science Month </h2>
+<div class="project">
+<p> I learned from science month the importance of technology and science around us. I can use this in real life by studying and respecting the studies made by researchers all around the world in order to make our earth a safer and healthier place. I didnt participate much in science month but I enjoyed having the research defence which allowed us to further develop the research that we have already prepared into something better. I would teach my friends by telling them the importance of research and how much it would benefit us in our daily lives. Its important to have events like this to show the importance of science and research in our lives.
+</div>
+<img src="sci1.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; top:20px; right:100px">
+<video width="580" height="300" style="position:relative; left:250px;" controls>
+  <source src="sci.mp4" type="video/mp4">
+  <source src="video.ogg" type="video/ogg">
+</video>
+<img src="sci2.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: left;position: relative; top:20px; left:100px">
+<h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;"> A.P Month </h2>
+<div class="project">
+<p> I learned from AP month the importance of keeping our land safe, specifically the west Philippine sea. I can use this in real life by learning the history and the reason behind why the Chinese have been fighting over our land so recently. I didnt participate that much in the AP although I enjoyed listening to the seminar about protecting our West Philippine Sea. I would teach my friends the importance of respecting and protecting our land from those who want to take our resources and fight against us. Its important to have these events in our daily lives because it teaches us what is going on and what we should be doing to resolve these issues.
+</div>
+<img src="ap1.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: left;position: relative; top:20px; left:100px">
+<video width="580" height="300" style="position:relative; left:250px;" controls>
+  <source src="ap.mp4" type="video/mp4">
+  <source src="video.ogg" type="video/ogg">
+</video>
+<img src="ap2.jpg" alt="centered" style="width:200px; height:200px; border-radius:50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2); float: right;position: relative; top:20px; right:100px">
+
+<footer>  
+   <p>&copy; contact me! @Gabriel Baybayon on facebook!</p>
+ </footer>
+</body>
+</html>

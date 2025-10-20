@@ -1,0 +1,16 @@
+<!DOCYTYPE html>
+<html>
+<head> <title> BAYBAYON_E-PORTFOLIO </title>
+<style>
+div {
+    height: 400px;
+    background: linear-gradient(to bottom, #000066 0%, #660066 100%)
+}
+</style>
+</head>
+
+<body>
+
+<div></div>
+
+<h1>

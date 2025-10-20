@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AP</title>
+  <style>
+    body {
+      font-family: Lucida Handwriting;
+      margin: 0;
+      color: #333; 
+    background-image: url('LPSCIBG.jpg');
+    background-size: cover;      
+    background-position: center; 
+    background-repeat: no-repeat;
+
+    }
+    header {
+      background: linear-gradient(to bottom, #000099 0%, #003300 100%);
+      color: white;
+      text-align: center;
+      border: 1px solid black; border-radius: 5px;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #ddd;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #4caf50;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #FAFAD2;
+      text-align: left;
+    }
+    .project {
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 5px;
+      background: white;
+      box-shadow: 10px 10px LightSteelBlue;
+    }
+     footer {
+      background: linear-gradient(to bottom, #000099 0%, #003300 100%);
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+      margin-top: 40px;
+     
+       </style>
+</head>
+<body>
+
+  <header>
+   
+    <h1>&#128187;Electronic Portfolio&#128187;</h1>
+    <p>LAPISCIAN | Gamer | Student | Musician</p>
+    <nav>
+      <a href="BAYBAYON_PORTFOLIO.html"> <u>Back to home</u> </a>
+    </nav>
+  </header>
+
+<h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;"> Lesson #1 Demand </h2>
+<div class="project">
+<p> <b> Demand </b> <br>
+-Dami ng produkto o serbisyo na nais o kayang bilhin ng  mga mamimili sa isang partikular na panahon.<br>
+-Presyo lamang ang pinaka mahalagang nagtatakda (detrminant) sa dami ng demand.<br>
+<b> Batas ng demand </b> <br>
+-Mataas ang Presyo=Mababa ang demand <br>
+-Mababa ang presyo=Mataas ang demand <br>
+<b> Ceteris Paribus </b> <br>
+-Presyo lamang ang nakakaapekto sa quality ng demand, ang ibang salik ay constant. <br>
+Presyo=independent <br>
+Demand=dependent <br>
+<b> Substituion Effect </b> <br>
+-Kapag tumaas ang presyo hahanap ng alternatibo/pamalit. <br>
+<b> income effect </b> <br>
+-Tumutukoy sa pagbabago ng demand ukol sa produkto o serbisyo na maaaring sanhi ng pagbabago ng kakayanan sa pagbili ng isang konsyumer dulot ng pagbabago sa kaniyang pinansyal na estado.<br>
+
+<b> Demand schedule </b> <br>
+-Talahanayang nagpapakita kung gaano karaming produkto ang nais bilhin ng mga mamimili. <br>
+<b> Demand Function </b> <br>
+-Matematikal formula ng demand: Equation: (Qd=a-bP)<br>
+ (QD)= Quantity Demanded, ang halaga nito ay nakasalalay sa mga pagbabago sa presyo <br>
+ (a)= Autonomous Demand (Dami ng Demand sa Presyong Zero). Ito ang quantity demanded kapag ang presyo (P) ay 0. Sa konteksto ng ekonomiya, kinakatawan nito ang lahat ng di-presyong salik na nakakaapekto sa demand (tulad ng kita, panlasa, at populasyon).<br>
+ (b)= Slope ng Demand Curve. Ito ay isang negatibong numerong nagpapakita kung gaano kababa ang dami ng demand tuwing tumataas ang presyo. Ito ang sumasalamin sa Law of Demand, na nagsasaad na may baliktad na ugnayan sa pagitan ng presyo at dami ng demand. <br>
+ (p)= Price (Presyo). Ito ang independent variable sa function.<br>
+<b> Demand Curve </b> <br>
+-Grapikong representasyon ng batas ng demand. <br>
+-Kapag pumunta sa kanan ang linya ito'y tumaas "D1", kapag bumababa ito'y pupunta sa kaliwa "D2". <br>
+<b> Salik na nakakaapekto sa Demand/Non-determiminant </b> <br>
+<ul>
+<li> Populasyon
+<li>Panlasa
+<li>Presyo ng magkaugnay na produkto sa pagkonsumo
+<li>Inaasahang ng mga mamimili sa presyo sa hinaharap
+<li>Okasyon
+<li>Klima/panahon
+<li>Kita
+</ul>
+</p>
+</div>
+
+<h2 style="background:linear-gradient(to bottom, #0000cc 0%, #66ccff 100%);text-align:center;"> Lesson #2 Supply </h2>
+<div class="project">
+<p> <b> Supple </b> <br>
+-Dami ng produkto o serbisyo na gustong ibenta ng mga produsyer sa isang takdang presyo at partikular na panahon.<br>
+-Presyo lamang ang pinaka mahalagang nagtatakda (detrminant) sa dami ng supply
+<b> Batas ng supply </b> <br>
+-Mataas ang presyo=Mataas ang supply <br>
+-Mababa ang presyo=Mababa ang supply <br>
+<b> Supply schedule </b> <br>
+-Talahanayang nagpapakita kung gaano karaming produkto ang nais gawin ng mga produsyer. <br>
+<b> Supply Function </b> <br>
+-Matematikal formula ng supply: Equation: (Qs=c+dP) <br>
+  (Qs) Quantity Supplied (Dami ng Supply). Ito ang dependent variable, na nagbabago batay sa presyo.dSlope ng Supply Curve. Ito ang positibong numerong nagpapakita kung gaano karami ang pagbabago sa dami ng supply sa bawat pagbabago sa presyo. Ito ay sumasalamin sa positibong ugnayan sa pagitan ng presyo at supply.<br>
+  (c) Y-intercept (Supply sa Presyong Zero). Ang theoretical quantity supplied kapag ang presyo P ay 0. Sa praktikal na kahulugan, ito ay kumakatawan sa mga di-presyong salik na nakakaimpluwensya sa supply, tulad ng teknolohiya at gastos sa produksyon.<br>
+  (d) Slope ng Supply Curve Ito ang positibong numerong nagpapakita kung gaano karami ang pagbabago sa dami ng supply sa bawat pagbabago sa presyo. Ito ay sumasalamin sa positibong ugnayan sa pagitan ng presyo at supply.<br>
+  (P) Price (Presyo). Ito ang independent variable sa function. <br>
+<b> supply curve </b> <br>
+-Grapikong representasyon ng Batas ng Supply<br>
+-Kapag pumunta sa kanan ang linya ito'y tumaas "S1", kapag bumababa ito'y pupunta sa kaliwa "S2".<br>
+<b> Salik na nakakaapekto sa Demand/Non-determiminant </b> <br>
+<ul>
+<li> Pagbabago ng sa teknolohiya
+<li>Pagbababgo sa halaga ng mga salik sa produksyon
+<li>pagbabago sa bilang ng nagtitinda
+<li>Pagbabago sa presyon na makaugnay na produkto
+<li>Ekpektasyon sa presyo
+<li>okasyon
+<li>panahon
+<li>kalamidad
+<li>Dali ng pagkasira o pagkabulok ng isang produkto
+</ul>
+</p>
+</div>
+
